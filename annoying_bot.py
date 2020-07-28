@@ -1,5 +1,5 @@
-number = "607072587"
-password = "somethingnew"
+number = "..."
+password = "..."
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from time import sleep
